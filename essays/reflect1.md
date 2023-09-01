@@ -3,11 +3,11 @@ layout: essay
 type: essay
 published: true
 title:  experience in javascript
-date: 8/31/2023
+date: 30 Aug 2023
 labels: 
   - Javascprite
   - ICS314
-projecturl: https://experienceinjavascript.github.io/
+/*projecturl: https://experienceinjavascript.github.io/*/
 ---
 JavaScript was used when I was in high school, I learned JavaScript and Java together so kind of mixup bacause Java is similar to JavaScript. JavaScript is a versatile language that can be used for both front-end and back-end development. It is essential for creating interactive and dynamic websites. Java is a computing platform for backend, program development.
 
