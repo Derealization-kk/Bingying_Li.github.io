@@ -12,10 +12,12 @@ summary: "ICS 111 Homework "
 <img class="img-fluid" src="../img/charge/f50b9e4c8031a87f2ec51afe2f2df07.png">
 <hr>
 This project is a simple change calculator program called "CorrectChange". It is designed to help users calculate the change amount after purchasing an item to ensure the correct transaction amount. The user needs to enter the price of the item and the payment amount, and then the program will calculate the change amount and split it in dollars, quarters, 10 cents, 5 cents, and 1 cent coins/notes to display the change amount. Zero details.
-<br>
+
+
 My role and work:
 I am the developer of this project, responsible for designing and writing this program.
-<br>
+
+
 I designed the program's user interface, including a message prompting the user to enter the price of the item and the payment amount, as well as a section that displays the change amount. I wrote the core logic of the program, including accepting user input, calculating the change amount, and breaking the change amount into coin units of different denominations. Checks and handling of incorrect or unreasonable values entered by the user have also been added to ensure that the program can give appropriate feedback when the user enters an incorrect value.
 <pre>
   public class CorrectChange {
