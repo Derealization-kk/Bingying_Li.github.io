@@ -11,7 +11,7 @@ labels:
   - GitHub
 summary: "a small game I developed for my high school."
 ---
-<img src="..img/fb627b588589af4bfffdcc43d0c01b2.png"></img>
+<img class="img-fluid" src="..img/fb627b588589af4bfffdcc43d0c01b2.png">
 
 <hr>
   This project is a simple pick up game. In the game, players need to catch falling items by swaping the screen or dragging items. They fall at different speeds, and players need quick reflexes and precise operations to catch them. It will keep track of the player's high score, and it will be updated when the player exceeds the previous high score.
