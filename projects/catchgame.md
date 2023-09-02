@@ -20,7 +20,7 @@ My role and work:
 <br>
   I'm the game designer and developer for this project. I'm responsible for creating the overall concept of the game, including gameplay, design of items, and difficulty settings. Wrote the core code of the game, including item spawning and movement, response to player input, scoring system, etc. And make sure the game works well on both mobile and computer.
   
-what did you learn from the experience?
+What did you learn from the experience?
 <br>
   I learned important lessons and skills about game design and development. I learned how to create interesting and engaging gameplay, and how to keep players interested by adjusting the difficulty and challenge.
 
