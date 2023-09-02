@@ -12,7 +12,7 @@ summary: "A game that I make in ICS 111 "
 <img class="img-dice" src="..img/dice/453317536463186149.jpg">
 <hr>
 "Two Dice Pig" is a dice-based board game. In the game, players take turns rolling two dice and score points are accumulated based on the number of dice. However, if any of the dice are rolled with a 1, the player's turn is immediately over and they lose the points they earned for that turn. Players may choose to stop rolling the dice at any point and add the score of their turn to the total. The object of the game is to win before accumulating a high enough score.
-
+<br>
 My role and work:
 I am working as a game developer in this project
 
