@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title:  experience in javascript
+title:  Experience in Javascript
 date: 31 Aug 2023
 labels: 
   - Javascprite
