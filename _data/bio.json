@@ -11,8 +11,8 @@
     "profiles": [
       { "network": "github", "username": "BingYing Li", "url": "https://github.com/bing-ying-li" },
       { "network": "linkedin", "username": "BingYing Li", "url": "www.linkedin.com/in/derealization" },
-      { "network": "twitter", "username": "BingYing Li", /*"url": "http://twitter.com/changeme"*/ },
-      { "network": "instagram", "username": "BingYing Li"/*, "url": "http://instagram.com/changeme" */}
+      { "network": "twitter", "username": "BingYing Li" },
+      { "network": "instagram", "username": "BingYing Li"}
     ]
   },
   "interests": [
