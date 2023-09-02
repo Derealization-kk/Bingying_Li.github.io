@@ -9,7 +9,7 @@ labels:
   - Java
 summary: "ICS 111 Homework "
 ---
-<img class="img-fluid" src="../img/dice/9a826b3959b4b6f1eb2343683995728.png">
+<img class="img-fluid" src="../img/charge/f50b9e4c8031a87f2ec51afe2f2df07.png">
 <hr>
 This project is a simple change calculator program called "CorrectChange". It is designed to help users calculate the change amount after purchasing an item to ensure the correct transaction amount. The user needs to enter the price of the item and the payment amount, and then the program will calculate the change amount and split it in dollars, quarters, 10 cents, 5 cents, and 1 cent coins/notes to display the change amount. Zero details.
 <br>
