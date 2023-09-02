@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/dice/393237bd5b9c5072e23086ca0290716.png
 title: Two Dice Pig Game
 date: 2022
 published: true
