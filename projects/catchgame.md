@@ -24,5 +24,4 @@ what did you learn from the experience?
 <br>
   I learned important lessons and skills about game design and development. I learned how to create interesting and engaging gameplay, and how to keep players interested by adjusting the difficulty and challenge.
 
-</hr>
 Source: <a href="https://github.com/BYL-RHS/byl-rhs.github.io"><i class="large github icon "></i>byl-rhs.github.io</a>
