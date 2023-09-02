@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/dice/393237bd5b9c5072e23086ca0290716.png
+image: img/charge/0eb0a00b2e74d147a65de47fc3b66a2.jpg
 title: Correct Charge
 date: 2022
 published: true
