@@ -27,7 +27,7 @@ Environment mentioned (Anaconda for Python 2.7)
 3. Describe the research you did to try and understand the problem before you asked the question.
 A user posted what he try.
 
-4.Describe the diagnostic steps you took to try and pin down the problem yourself before you asked the question.
+  4.Describe the diagnostic steps you took to try and pin down the problem yourself before you asked the question.
 The user mentioned modifying the kernel.json file and provided file information
 
 5.Describe any possible relevant recent changes in computer or software configuration.
