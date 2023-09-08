@@ -35,7 +35,7 @@ Users mentioned creating a Conda environment and a Jupyter kernel, and followed 
 6. If possible, please provide a way to reproduce the problem in a controlled environment.
 There is only one kernel called in the jupyter notebook menu, and it cannot be imported into Tensorflow.
                        
-<h1> example for not a smart question</h1>
+<h1>Example for not a smart question</h1>
                        
 On <a href="https://stackoverflow.com/questions/77065018/wpf-elements-are-not-in-their-places">StackOverflow</a>
 
@@ -56,5 +56,6 @@ There is no information about recent changes or updates to the user's computer o
 
 6.If at all possible, provide a way to reproduce the problem in a controlled environment.
 The user does not provide specific steps to reproduce the problem or any error messages, making it difficult for others to assist.
+
 <h1>Conclusion</h1>
 Smart questions are the cornerstone of intelligent software engineering. They enable clarity, efficiency, collaboration, learning and innovation. By adhering to the precepts of smart problems, software engineers can dramatically improve their problem-solving abilities and contribute to the advancement of the field. Using it in this way not only benefits the individual, but also elevates the entire software engineering community. The process of becoming a smart software engineer starts with a smart question.
