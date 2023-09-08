@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title:  How Importance of Smart Questions in the Field of Software Engineering
+title: How Importance of Smart Questions in the Field of Software Engineering
 date: 7 Setp 2023
 labels: 
   - Javascprite
