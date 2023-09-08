@@ -18,16 +18,16 @@ Smart questions play a key role in software engineering, helping to clarify ambi
 On <a href="https://stackoverflow.com/questions/39604271/conda-environments-not-showing-up-in-jupyter-notebook?rq=2">StackOverflow</a>
 A smart question you need to provide more exact information such as:
 
-1. Describe the symptoms of your problem or error carefully and clearly.
+1.Describe the symptoms of your problem or error carefully and clearly.
 The user mentioned that they had created two Conda environments with multiple Jupyter cores and described the problem.
 
-2. Describe the environment in which it occurs (computer, operating system, application, etc.). Provide the vendor's distribution and release level (for example, "Fedora Core 7", "Slackware 9.1", etc.).
+2.Describe the environment in which it occurs (computer, operating system, application, etc.). Provide the vendor's distribution and release level (for example, "Fedora Core 7", "Slackware 9.1", etc.).
 Environment mentioned (Anaconda for Python 2.7)
 
-3. Describe the research you did to try and understand the problem before you asked the question.
+3.Describe the research you did to try and understand the problem before you asked the question.
 A user posted what he try.
 
-  4.Describe the diagnostic steps you took to try and pin down the problem yourself before you asked the question.
+4.Describe the diagnostic steps you took to try and pin down the problem yourself before you asked the question.
 The user mentioned modifying the kernel.json file and provided file information
 
 5.Describe any possible relevant recent changes in computer or software configuration.
