@@ -30,10 +30,10 @@ A user posted what he try.
 4.Describe the diagnostic steps you took to try and pin down the problem yourself before you asked the question.
 The user mentioned modifying the kernel.json file and provided file information
 
-5. Describe any possible relevant recent changes in computer or software configuration.
+5.Describe any possible relevant recent changes in computer or software configuration.
 Users mentioned creating a Conda environment and a Jupyter kernel, and followed the steps to manually set up the kernel.
 
-6. If possible, please provide a way to reproduce the problem in a controlled environment.
+6.If possible, please provide a way to reproduce the problem in a controlled environment.
 There is only one kernel called in the jupyter notebook menu, and it cannot be imported into Tensorflow.
                        
 <h1>Example for not a smart question</h1>
