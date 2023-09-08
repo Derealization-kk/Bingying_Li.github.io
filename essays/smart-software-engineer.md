@@ -38,11 +38,11 @@ There is only one kernel called in the jupyter notebook menu, and it cannot be i
 <h1>Example for not a smart question</h1>
                        
 On <a href="https://stackoverflow.com/questions/77065018/wpf-elements-are-not-in-their-places">StackOverflow</a>
-<p>I have a DataGrid which seems to be in the correct place but the buttons under my DG are messed up somehow Here's what the design pane shows And here's what I see when I run the code
+<pre>
+I have a DataGrid which seems to be in the correct place but the buttons under my DG are messed up somehow Here's what the design pane shows And here's what I see when I run the code
 
 When I moved the button to the left corner of the DataGrid, it was at the same place where the designer showed.”Describe the symptoms of your problem or bug carefully and clearly.
-</p>
-The question has been deleted
+</pre>
 
 1.Describe the symptoms of your problem or bug carefully and clearly.
 The user mentions that there is an issue with buttons under a DataGrid. However, the description is quite vague, and it's not clear what the specific problem is.
