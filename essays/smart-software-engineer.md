@@ -9,6 +9,7 @@ labels:
   - ICS314
 ---
 <img src="../img/smart-questions/89393ad5b3164900508545805c3dd45.jpg">
+
 In constant development of software engineering, engineer ability to ask smart questions is a skill that separates the proficient from the truly exceptional. smart questions is come from by curiosity and critical thinking not only drive innovation but also accelerate problem solving. This article explores why smart questions are essential to smart software engineers, assesses how well-chosen questions align with the principles of smart questioning, analyzes how smartness is reflected in responses, and highlights lessons learned from this experience opinion.
 <br>
 
