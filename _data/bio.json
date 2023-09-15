@@ -7,7 +7,7 @@
     "phone": "808-384-0144",
     "website": "https://bing-ying-li.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "1716 Noelani St", "postalCode": "96782", "city": "Pearl City", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "BingYing Li", "url": "https://github.com/bing-ying-li" },
       { "network": "linkedin", "username": "BingYing Li", "url": "https://www.linkedin.com/in/derealization/" }
