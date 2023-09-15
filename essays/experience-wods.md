@@ -10,6 +10,8 @@ labels:
 ---
 Everyone has their own way of learning, and some may enjoy having new WODs every day, while for others, the constant change can be stressful. They may prefer a structured or traditional exercise routine. The key is to find a learning style and exercise program that works for you. I enjoy the challenge and variety of WOD.
 
+<img src="../img/essay/05dff1a582bdc848dbc6301175a4f09.jpg">
+
 <pre>
   function blackjack(x,y){
 	function value(hand) {
