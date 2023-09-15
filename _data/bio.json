@@ -10,9 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "BingYing Li", "url": "https://github.com/bing-ying-li" },
-      { "network": "linkedin", "username": "BingYing Li", "url": "https://www.linkedin.com/in/derealization/" },
-      { "network": "twitter", "username": "BingYing Li", "url": "https://bing-ying-li.github.io"},
-      { "network": "instagram", "username": "BingYing Li", "url": "https://bing-ying-li.github.io"}
+      { "network": "linkedin", "username": "BingYing Li", "url": "https://www.linkedin.com/in/derealization/" }
     ]
   },
   "interests": [
@@ -37,7 +35,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2020-8-7",
+      "startDate": "2021-8-7",
       "endDate": "Present",
       "courses": [
       ]
@@ -99,15 +97,9 @@
   "awards": [
     {
       "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "date": "2021-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
