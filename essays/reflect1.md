@@ -8,6 +8,7 @@ labels:
   - Javascprite
   - ICS314
 ---
+<img src="../img/essay/f835742fb15611d99d0a746af98f8f6.jpg">
 JavaScript was used when I was in high school, I learned JavaScript and Java together so kind of mixup bacause Java is similar to JavaScript. JavaScript is a versatile language that can be used for both front-end and back-end development. It is essential for creating interactive and dynamic websites. Java is a computing platform for backend, program development.
 
 One of the things I like about JavaScript is its flexibility. With so many libraries and frameworks available, complex applications can be created easily and quickly Another great thing about JavaScript is its large and active community. There are new tools and resources being developed all the time, and there is no shortage of tutorials and guides online. This makes it easy to learn new skills and stay abreast of the latest trends in web development.
