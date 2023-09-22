@@ -3,13 +3,14 @@ layout: essay
 type: essay
 published: true
 title:  Coding Standards: The Key to Improving Code Quality In the world of Software Development
-date: 31 Aug 2023
+date: 21 sept 2023
 labels: 
   - Javascprite
   - ICS314
 ---
 
-https://www.ommzi.com/wp-content/uploads/2019/01/Coding-Standards.jpg
+<img width="500px" class="rounded float-start pe-4" src="https://www.ommzi.com/wp-content/uploads/2019/01/Coding-Standards.jpg">
+
 Coding standards are often viewed as trivial details.People pay more attention to algorithms, architecture and function implementation, but often turn a blind eye to code layout and formatting. However, I firmly believe that coding standards are a key factor in improving code quality and can have a profound impact on developer learning, team collaboration, and the final software product.
 
  ### Coding Standards and Learning a Programing Language
