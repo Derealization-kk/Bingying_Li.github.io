@@ -1,13 +1,15 @@
 ---
 layout: essay
-type: essays
-published: true
-title: Coding Standards: The Key to Improving Code Quality In the world of Software Development
+type: essay
+title: "Coding Standards: The Key to Improving Code Quality In the world of Software Development"
+# All dates must be YYYY-MM-DD format!
 date: 21 sept 2023
-labels: 
+published: true
+labels:
   - Javascprite
   - ICS314
 ---
+
 
 <img width="500px" class="rounded float-start pe-4" src="https://www.ommzi.com/wp-content/uploads/2019/01/Coding-Standards.jpg">
 
