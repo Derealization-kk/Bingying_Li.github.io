@@ -1,8 +1,8 @@
 ---
 layout: essay
-type: essay
+type: essays
 published: true
-title:  Coding Standards: The Key to Improving Code Quality In the world of Software Development
+title: Coding Standards: The Key to Improving Code Quality In the world of Software Development
 date: 21 sept 2023
 labels: 
   - Javascprite
