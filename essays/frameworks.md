@@ -6,7 +6,7 @@ title: "The Power of UI Frameworks: Unleashing the Potential of Bootstrap 5"
 date: 5 OCT 2023
 published: true
 labels:
-  - Javascprite
+  - Bootstrap 5
   - ICS314
 ---
 <img src = "https://s3.amazonaws.com/usefulangle/news/73-5eecae51f192b.png">
