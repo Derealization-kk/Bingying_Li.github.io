@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Design patterns"
 # All dates must be YYYY-MM-DD format!
-date: 1 DEC 2023
+date: 30 NOV 2023
 published: true
 labels:
   - Javascprite
