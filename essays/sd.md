@@ -1,3 +1,15 @@
+---
+layout: essay
+type: essay
+title: "Exploring Software Engineering"
+# All dates must be YYYY-MM-DD format!
+date: 21 sept 2023
+published: true
+labels:
+  - Javascprite
+  - ICS314
+---
+
 In this software engineering course, I gained valuable insights into various fundamental concepts beyond the realm of web application development. Two key themes that stood out were agile project management and design patterns.
 
 ### Agile project management:
