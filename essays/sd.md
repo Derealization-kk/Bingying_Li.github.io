@@ -9,7 +9,9 @@ labels:
   - Javascprite
   - ICS314
 ---
-<img scr = "https://www.icharts.net/wp-content/uploads/2019/02/Software-Engineer3.jpg">
+<img src = "https://www.icharts.net/wp-content/uploads/2019/02/Software-Engineer3.jpg">
+
+
 In this software engineering course, I gained valuable insights into various fundamental concepts beyond the realm of web application development. Two key themes that stood out were agile project management and design patterns.
 
 ### Agile project management:
