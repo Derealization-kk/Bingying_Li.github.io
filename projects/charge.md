@@ -4,7 +4,7 @@ type: project
 image: img/charge/0eb0a00b2e74d147a65de47fc3b66a2.jpg
 title: Correct Charge
 date: 2022
-published: true
+published: false
 labels:
   - Java
 summary: "ICS 111 Homework "
