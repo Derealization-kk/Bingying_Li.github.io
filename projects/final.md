@@ -1,15 +1,17 @@
 ---
 layout: project
 type: project
-image: <img src ="https://wallpapersafari.com/image/manoa-wallpapers.jpg">
-title: "Catch Game"
+image: img/uhm.png
+title: "Manoa Marketplace"
 # All dates must be YYYY-MM-DD format!
-date: 2019
+date: 2023
 published: true
 labels:
-  - Game
+  - Meteor
   - GitHub
-summary: "a small game I developed for my high school."
+  - Bootstrap 5 React
+  - Javascript
+summary: "ICS314 final project"
 ---
 ### Introduction
 
@@ -29,4 +31,6 @@ Furthermore, I took charge of creating the "My Product Page" feature, a personal
 
 ### Source
 <a href="https://github.com/manoa-market-place/manoa-market-place.github.io">Manoa Marketplace Page</a>
+
+
 <a href="https://manoa-market-place.github.io/">Manoa Marketplace Code</a>
