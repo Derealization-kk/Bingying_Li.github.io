@@ -1,0 +1,64 @@
+{
+  "basics": {
+    "name": "Bingying Li",
+    "label": "Student",
+    "picture": "_data/35183257495890570.jpg",
+    "email": "bingying@hawaii.edu",
+    "phone": "808-384-0144",
+    "website": "https://bing-ying-li.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
+    "location": { "address": "1716 Noelani St", "postalCode": "96782", "city": "Pearl City", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "BingYing Li", "url": "https://github.com/bing-ying-li" },
+      { "network": "linkedin", "username": "BingYing Li", "url": "https://www.linkedin.com/in/derealization/" }
+    ]
+  },
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Security and Trust" },
+    { "name": "Database Systems" },
+    { "name": "Robotics" },
+    { "name": "AI" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML/CSS", "Python" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [  "Git/Github", "Jsfiddle", "Window", "IntelliJ IDEA", "Eclipse", "Visual Studio Code" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-8-7",
+      "endDate": "Present",
+      "courses": ["Discrete Mathematics", "Program Structure", "Algorithms", "Software Engineering", "Database Systems", "Operating Systems", "Linear Algebra & Diff Eq", "Security and Trust"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "B+ Scholarship",
+      "date": "2021-Present",
+      "awarder": "State of Hawaii",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+      "title": "Apply AI Certificate of Completion",
+      "date": "February 2023-April 2023",
+      "awarder": "State of Hawaii",
+      "summary": "Gained technical and project-based skills in coding and AI on topics including data sourcing, organizing, visualization, implementation, and evaluation."
+    }
+    
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
